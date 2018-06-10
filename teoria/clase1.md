@@ -41,8 +41,35 @@
 - Dev Ops
 - etc...
 
-### Arquitectura de Internet 
-![img](http://www.justinrominedesign.com/images/internet.png)
+
+### Arquitectura de Internet
+**Navegación**
+
+![img](http://www.simplimation.com/uploads/news/images/full/5-how-the-web-works.jpg)
+
+**Hosting**
+
+![img](http://dodynamic.com/wp-content/uploads/2009/08/website-house-analogy.jpg)
+
+**CMS (Back-End)**
+
+![img](https://www.inqbation.com/wp-content/uploads/2011/03/how-cms-works-0.jpg)
+
+**CDN (Content Delivery Network)**
+
+![img](http://premium.wpmudev.org/blog/wp-content/uploads/2014/09/cdns.png)
+
+**Tracking**
+
+![img](https://fpf.org/wp-content/uploads/2009/11/data.gif)
+
+**[W3C - World Wide Web Consortium](https://www.w3.org/)**
+
+![img](https://upload.wikimedia.org/wikipedia/commons/e/ed/W3C%C2%AE_Icon.svg)
+
+- [historia y logros](https://www.w3.org/2005/01/timelines/timeline-2500x998.png)
+
+
 
 ## Front-end
 ### HTML
@@ -72,7 +99,7 @@
 
 ### JavaScript
 
-![js_logo](http://www.fictizia.com/assets/styles/styleImgs/wideBox/widebox_js.png)
+![js_logo](https://programacion.net/files/article/20160921060930_javascript.jpg)
 
 > JavaScript (abreviado comúnmente JS) es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, basado en prototipos, imperativo, débilmente tipado y dinámico.
 
