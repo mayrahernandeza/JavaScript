@@ -18,17 +18,17 @@ Teoría y Recursos
 =================
 Fecha | Teoría | Recursos
 ------------ | ------------ | -------------
-11/06/18 | [Clase 1](teoria/clase1.md) | [Clase 1](recursos/clase1.md)
-12/06/18 | Clase 2 | Clase 2
-13/06/18 | Clase 3 | Clase 3
-14/06/18 | Clase 4 | Clase 4
-18/06/18 | Clase 5 | Clase 5
-19/06/18 | Clase 6 | Clase 6
-20/06/18 | Clase 7 | Clase 7
-21/06/18 | Clase 8 | Clase 8
-25/06/18 | Clase 9 | Clase 9
-26/06/18 | Clase 10 | Clase 10
-27/06/18 | Clase 11 | Clase 11
+12/06/18 | [Clase 1](teoria/clase1.md) | [Clase 1](recursos/clase1.md)
+13/06/18 | Clase 2 | Clase 2
+14/06/18 | Clase 3 | Clase 3
+18/06/18 | Clase 4 | Clase 4
+19/06/18 | Clase 5 | Clase 5
+20/06/18 | Clase 6 | Clase 6
+21/06/18 | Clase 7 | Clase 7
+25/06/18 | Clase 8 | Clase 8
+26/06/18 | Clase 9 | Clase 9
+27/06/18 | Clase 10 | Clase 10
+28/06/18 | Clase 11 | Clase 11
 
 
 Temario
