@@ -20,7 +20,7 @@ Fecha | Teoría | Recursos
 ------------ | ------------ | -------------
 12/06/18 | [Clase 1](teoria/clase1.md) | [Clase 1](recursos/clase1.md)
 13/06/18 | [Clase 2](teoria/clase2.md) | [Clase 2](recursos/clase2.md)
-14/06/18 | Clase 3 | Clase 3
+14/06/18 | [Clase 3](teoria/clase3.md) | [Clase 3](recursos/clase3.md)
 18/06/18 | Clase 4 | Clase 4
 19/06/18 | Clase 5 | Clase 5
 20/06/18 | Clase 6 | Clase 6
