@@ -28,7 +28,7 @@ Fecha | Teoría | Recursos
 25/06/18 | [Clase 8](teoria/clase8.md) | [Clase 8](recursos/clase8.md)
 26/06/18 | [Clase 9](teoria/clase9.md) | [Clase 9](recursos/clase9.md)
 27/06/18 | [Clase 10](teoria/clase10.md) | [Clase 10](recursos/clase10.md)
-28/06/18 | Clase 11 | Clase 11
+28/06/18 | [Clase 11](teoria/clase11.md) | [Clase 11](recursos/clase11.md)
 
 
 Temario
