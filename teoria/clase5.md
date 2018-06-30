@@ -217,7 +217,17 @@ document.body.dispatchEvent(miEvento);
 **2 -**  Diseña un script que sustituya todas las imágenes de las entradas de [Tecnología del Mundo Today](http://www.elmundotoday.com/noticias/tecnologia/) por [imágenes dummy de gatitos](https://placekitten.com/).
 
 ```javascript
-	//Tu solución
+		var imagenes = document.querySelectorAll('.td-module-thumb img');
+		var imagenesLog = [];
+		for(var i = 0; i < imagenes.length; i++){
+			var url = document.querySelectorAll('.td-module-thumb img')[i].src;
+			var ancho = document.querySelectorAll('.td-module-thumb img')[i].width;
+			var alto = document.querySelectorAll('.td-module-thumb img')[i].height;
+			var sustituto = "https://placekitten.com/"+ancho+"/"+alto;
+			var datos = [url, ancho, alto, sustituto]
+			imagenesLog.push(datos);
+			document.querySelectorAll('.td-module-thumb img')[i].src = sustituto;
+		}
 ```
 
 **3 -** Diseña un script que agrupe todos los titulares, sus autores y categorias dentro de [Genbeta:dev](http://www.genbetadev.com/) y luego vacíe el html para cargar una lista hecha por nosotros con la información previamente recolectada.
