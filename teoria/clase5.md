@@ -233,9 +233,44 @@ document.body.dispatchEvent(miEvento);
 **3 -** Diseña un script que agrupe todos los titulares, sus autores y categorias dentro de [Genbeta:dev](http://www.genbetadev.com/) y luego vacíe el html para cargar una lista hecha por nosotros con la información previamente recolectada.
 
 ```javascript
-	//Tu solución
+	var datos = [];
+	var plantilla = "";
+	
+	for(var i = 0; i < document.querySelectorAll(".recent-abstract").length -1; i++){
+		var autor;
+		var titular;
+		var categorias;
+	
+		// Autor 
+		if(document.querySelectorAll(".abstract-author")[i]){
+			autor = document.querySelectorAll(".abstract-author")[i].innerText
+		} else {
+	 		autor = "Desconocido"
+		}
+	
+		// Titular
+		if(document.querySelectorAll(".abstract-title a")[i]){
+			titular = document.querySelectorAll(".abstract-title a")[i].innerText
+		} else {
+			titular = "Sin título"
+		}
+	
+		// Categorias
+		if(document.querySelectorAll(".abstract-taxonomy")[i]){
+			categorias = document.querySelectorAll(".abstract-taxonomy")[i].innerText
+		} else {
+			categorias = "Sin categorizar"
+		}
+	
+		datos.push([ autor, titular, categorias]);
+	
+		plantilla += '<h1>Titular: '+titular+'</h1>';
+		plantilla += '<h3>Autor: '+autor+'</h3>';
+		plantilla += '<p>Categoria: '+categorias+'</p>';
+	};
+	
+	document.body.innerHTML = plantilla;
 ```
-
 ### Trabajando con APIs
 
 *CRUD*
